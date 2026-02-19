@@ -1,0 +1,17 @@
+svg{
+    max-width: 60px;
+    fill:goldenrod;
+}
+
+#camera-dot{
+    fill: chocolate;
+}
+
+svg:hover{
+    transform: scale(1.1);
+    fill:coral;
+}
+
+#camera-dot:hover{
+    fill:coral;
+}
